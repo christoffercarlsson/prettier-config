@@ -1,0 +1,10 @@
+{
+  "name": "@christoffercarlsson/prettier-config",
+  "version": "0.2.2",
+  "license": "Unlicense",
+  "repository": "https://github.com/christoffercarlsson/prettier-config",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "prettierrc.json"
+}
