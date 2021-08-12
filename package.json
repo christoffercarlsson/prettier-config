@@ -4,9 +4,9 @@
   "description": "My personal Prettier configuration",
   "private": true,
   "license": "Unlicense",
-  "main": "prettierrc.json",
+  "main": "./.prettierrc.js",
   "files": [
-    "prettierrc.json"
+    ".prettierrc.js"
   ],
   "peerDependencies": {
     "prettier": "^2.3.2"
