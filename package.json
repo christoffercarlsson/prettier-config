@@ -4,8 +4,14 @@
   "description": "My personal Prettier configuration",
   "private": true,
   "license": "Unlicense",
-  "main": "./prettier.config.js",
+  "type": "module",
+  "exports": {
+    "import": "./prettier.config.js",
+    "require": "./prettier.config.cjs"
+  },
+  "main": "./prettier.config.cjs",
   "files": [
+    "prettier.config.cjs",
     "prettier.config.js"
   ],
   "peerDependencies": {

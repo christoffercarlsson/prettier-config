@@ -1,13 +1,3 @@
-module.exports = {
-  arrowParens: 'always',
-  endOfLine: 'lf',
-  jsxBracketSameLine: true,
-  jsxSingleQuote: true,
-  printWidth: 80,
-  semi: true,
-  singleQuote: true,
-  tabWidth: 2,
-  trailingComma: 'none',
-  useTabs: false,
-  proseWrap: 'always'
-};
+import config from './prettier.config.cjs'
+
+export default config;
