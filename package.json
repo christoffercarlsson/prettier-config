@@ -1,9 +1,9 @@
 {
-  "name": "prettier-config-cc",
+  "name": "@christoffercarlsson/prettier-config",
   "version": "0.4.1",
   "description": "My personal Prettier configuration",
-  "private": true,
   "license": "Unlicense",
+  "repository": "git://github.com/christoffercarlsson/prettier-config.git",
   "main": "prettierrc.json",
   "files": [
     "prettierrc.json"
