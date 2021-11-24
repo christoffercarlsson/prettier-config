@@ -9,6 +9,6 @@
     "prettierrc.json"
   ],
   "peerDependencies": {
-    "prettier": "^2.3.2"
+    "prettier": "^2.4.0"
   }
 }
