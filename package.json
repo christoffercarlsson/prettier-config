@@ -7,8 +7,5 @@
   "main": "prettierrc.json",
   "files": [
     "prettierrc.json"
-  ],
-  "peerDependencies": {
-    "prettier": "^2.4.0"
-  }
+  ]
 }
