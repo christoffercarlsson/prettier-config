@@ -4,8 +4,9 @@
   "description": "My personal Prettier configuration",
   "license": "Unlicense",
   "repository": "git://github.com/christoffercarlsson/prettier-config.git",
-  "main": "prettierrc.json",
+  "main": "prettier.config.js",
+  "type": "module",
   "files": [
-    "prettierrc.json"
+    "prettier.config.js"
   ]
 }
