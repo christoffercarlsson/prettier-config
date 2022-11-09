@@ -1,6 +1,6 @@
 {
   "name": "@christoffercarlsson/prettier-config",
-  "version": "0.6.3",
+  "version": "0.6.4",
   "description": "My personal Prettier configuration",
   "license": "Unlicense",
   "repository": "git://github.com/christoffercarlsson/prettier-config.git",
